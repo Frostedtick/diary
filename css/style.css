@@ -1,0 +1,611 @@
+.p-fC1 {
+    background: rgb(58,58,58);
+    padding: 1.25em 0;
+    font: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+}
+
+.a-fC1-a {
+    text-align: left;
+    color: rgb(255,255,255);
+    font-size: 1.5em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC1-a p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-a p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-a p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-b {
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-b-a {
+    padding: 0.75em;
+    height: 2.5em;
+    font-size: 1em;
+    line-height: 2.5em;
+    border-radius: 0.6125em;
+    background: rgb(109,109,109);
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0em 0em 0em 0em rgba(0,0,0,1);
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    width: 100%;
+    margin-bottom: 0.625em;
+}
+
+.a-fC1-b-b {
+    padding: 0.75em;
+    height: 2.5em;
+    font-size: 1em;
+    line-height: 2.5em;
+    border-radius: 0.6125em;
+    background: rgb(109,109,109);
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0em 0em 0em 0em rgba(0,0,0,1);
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    width: 100%;
+}
+
+.a-fC1-c {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-c p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-c p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-c p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-d {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-d p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-d p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-d p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-e {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-e p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-e p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-e p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-f {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-f p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-f p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-f p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-g {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-g p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-g p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-g p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-h {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-h p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-h p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-h p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-i {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-i p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-i p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-i p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-j {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-j p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-j p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-j p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-k {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-k p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-k p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-k p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-l {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-l p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-l p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-l p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-m {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-m p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-m p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-m p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC1-n {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, "Noto Sans Armenian", "Noto Sans Bengali", "Noto Sans Cherokee", "Noto Sans Devanagari", "Noto Sans Ethiopic", "Noto Sans Georgian", "Noto Sans Hebrew", "Noto Sans Kannada", "Noto Sans Khmer", "Noto Sans Lao", "Noto Sans Osmanya", "Noto Sans Tamil", "Noto Sans Telugu", "Noto Sans Thai", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC1-n p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC1-n p:first-child {
+    margin-top: 0;
+}
+
+.a-fC1-n p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.p-fC2 {
+    background: rgb(58,58,58);
+    padding: 1.25em 0;
+    font: "Montserrat Alternates", sans-serif;
+}
+
+.a-fC2-a {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.17em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC2-a p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-a p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-a p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-b {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC2-b p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-b p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-b p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-c {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.17em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC2-c p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-c p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-c p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-d {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC2-d p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-d p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-d p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-e {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.17em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC2-e p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-e p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-e p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-f {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC2-f p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-f p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-f p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-g {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.17em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC2-g p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-g p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-g p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-h {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC2-h p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-h p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-h p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-i {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.17em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC2-i p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-i p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-i p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC2-j {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC2-j p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC2-j p:first-child {
+    margin-top: 0;
+}
+
+.a-fC2-j p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.p-fC3 {
+    background: rgb(58,58,58);
+    padding: 1.25em 0;
+    font: "Montserrat Alternates", sans-serif;
+}
+
+.a-fC3-a {
+    text-align: left;
+    color: rgb(255,255,255);
+    font-size: 1.17em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+    font-weight: bold;
+}
+
+.a-fC3-a p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC3-a p:first-child {
+    margin-top: 0;
+}
+
+.a-fC3-a p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC3-b {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC3-b p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC3-b p:first-child {
+    margin-top: 0;
+}
+
+.a-fC3-b p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+
+.a-fC3-c {
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1em;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 0.625em 1.25em;
+}
+
+.a-fC3-c p:last-child {
+    margin-bottom: 0;
+}
+
+.a-fC3-c p:first-child {
+    margin-top: 0;
+}
+
+.a-fC3-c p {
+    line-height: 1.6em;
+    margin: 15px 0;
+}
+.link{
+    text-decoration: none;
+    color: rgb(109, 109, 248);
+} 
